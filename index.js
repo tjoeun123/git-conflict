@@ -1,2 +1,2 @@
 let a = "orange";
-let fruit = "strawberry";
+let fruit = "kiwi";
